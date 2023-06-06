@@ -1,0 +1,1305 @@
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\appsettings.Development.json
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\appsettings.json
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\libman.json
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.staticwebassets.runtime.json
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.exe
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.deps.json
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.runtimeconfig.json
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.pdb
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Humanizer.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\MessagePack.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Build.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Common.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.csproj.AssemblyReference.cache
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.AssemblyInfoInputs.cache
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.AssemblyInfo.cs
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.csproj.CoreCompileInputs.cache
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.MvcApplicationPartsAssemblyInfo.cache
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.SignalRChatProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.build.SignalRChatProject.props
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SignalRChatProject.props
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SignalRChatProject.props
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\scopedcss\bundle\SignalRChatProject.styles.css
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.csproj.CopyComplete
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\refint\SignalRChatProject.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.pdb
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.genruntimeconfig.cache
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\ref\SignalRChatProject.dll
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.RazorAssemblyInfo.cache
+D:\R-50 (1268459)\Module 09\Project\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.RazorAssemblyInfo.cs
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\appsettings.Development.json
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\appsettings.json
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\libman.json
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.staticwebassets.runtime.json
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.exe
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.deps.json
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.runtimeconfig.json
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.pdb
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Humanizer.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\MessagePack.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Build.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Common.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Configuration.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Packaging.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Protocol.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Versioning.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.Convention.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.IO.Pipelines.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.csproj.AssemblyReference.cache
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.AssemblyInfoInputs.cache
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.AssemblyInfo.cs
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.csproj.CoreCompileInputs.cache
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.MvcApplicationPartsAssemblyInfo.cache
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.RazorAssemblyInfo.cache
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.RazorAssemblyInfo.cs
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.SignalRChatProject.Microsoft.AspNetCore.StaticWebAssets.props
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.build.SignalRChatProject.props
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SignalRChatProject.props
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SignalRChatProject.props
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets.pack.json
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets.build.json
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets.development.json
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\scopedcss\bundle\SignalRChatProject.styles.css
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.csproj.CopyComplete
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\refint\SignalRChatProject.dll
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.pdb
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.genruntimeconfig.cache
+H:\IDB R50\1268459\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\ref\SignalRChatProject.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\appsettings.json
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\libman.json
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.staticwebassets.runtime.json
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.exe
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.deps.json
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.runtimeconfig.json
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.pdb
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\MessagePack.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.csproj.AssemblyReference.cache
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.AssemblyInfoInputs.cache
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.AssemblyInfo.cs
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.csproj.CoreCompileInputs.cache
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.RazorAssemblyInfo.cache
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.RazorAssemblyInfo.cs
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.SignalRChatProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.build.SignalRChatProject.props
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SignalRChatProject.props
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SignalRChatProject.props
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\scopedcss\bundle\SignalRChatProject.styles.css
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.csproj.CopyComplete
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\refint\SignalRChatProject.dll
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.pdb
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.genruntimeconfig.cache
+C:\Users\mahid\Downloads\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\ref\SignalRChatProject.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\appsettings.json
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\libman.json
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.staticwebassets.runtime.json
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.exe
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.deps.json
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.runtimeconfig.json
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.pdb
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\MessagePack.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.csproj.AssemblyReference.cache
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.AssemblyInfoInputs.cache
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.AssemblyInfo.cs
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.RazorAssemblyInfo.cache
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.RazorAssemblyInfo.cs
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.SignalRChatProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.build.SignalRChatProject.props
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SignalRChatProject.props
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SignalRChatProject.props
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\scopedcss\bundle\SignalRChatProject.styles.css
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.csproj.CopyComplete
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\refint\SignalRChatProject.dll
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.pdb
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.genruntimeconfig.cache
+C:\Users\LAB104-07\Desktop\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\ref\SignalRChatProject.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\appsettings.Development.json
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\appsettings.json
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\libman.json
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.staticwebassets.runtime.json
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.exe
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.deps.json
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.runtimeconfig.json
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\SignalRChatProject.pdb
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Humanizer.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\MessagePack.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Build.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Common.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.csproj.AssemblyReference.cache
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.AssemblyInfoInputs.cache
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.AssemblyInfo.cs
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.csproj.CoreCompileInputs.cache
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.MvcApplicationPartsAssemblyInfo.cache
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.RazorAssemblyInfo.cache
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.RazorAssemblyInfo.cs
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.SignalRChatProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.build.SignalRChatProject.props
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SignalRChatProject.props
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SignalRChatProject.props
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\scopedcss\bundle\SignalRChatProject.styles.css
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.csproj.CopyComplete
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\refint\SignalRChatProject.dll
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.pdb
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\SignalRChatProject.genruntimeconfig.cache
+D:\R-50 (1268459)\Module 09\SignalRChatProjects\SignalRChatProject\obj\Debug\net6.0\ref\SignalRChatProject.dll
